@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Venkata Munnangi</title>
+ <link href="http://venkatamunnangi.com/atom.xml" rel="self"/>
+ <link href="http://venkatamunnangi.com/"/>
+ <updated>2016-06-20T05:56:15+00:00</updated>
+ <id>http://www.vmunnangi.com</id>
+ <author>
+   <name>Venkata Munnangi</name>
+   <email>VenkataMunnangi@gmail.com</email>
+ </author>
+
+</feed>
